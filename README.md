@@ -3,6 +3,7 @@
 Tiwut Terminal is a lightweight, stylized command-line interface (CLI) application designed to manage files and directories within a dedicated root environment on your system. It offers basic terminal commands (ls, cd, mkdir, rm, etc.) with a clean, modern dark-mode theme powered by the 'rich' Python library.
 
 This distribution is provided as a standalone Windows Executable (.exe), meaning Python installation is NOT required to run the program.
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/eea2230b-bf44-409d-a60f-4aa3d7bf540c" />
 
 ### 2. INSTALLATION AND EXECUTION
 #### A. Installation
