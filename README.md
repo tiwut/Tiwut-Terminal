@@ -1,5 +1,12 @@
 # Tiwut Terminal (Qt C++ Edition)
 
+## Install with Homebrew
+```bash
+brew tap Nexus-Titan/tab https://github.com/Nexus-Titan/homebrew-tap.git
+brew update
+brew install nexus-titan/tab/tiwut-terminal
+```
+
 ## 1. OVERVIEW
 Tiwut Terminal is an ultra-fast, cross-platform command-line emulator built natively in C++ using the Qt 6 framework. It simulates a fully functional OS environment securely nested within a dedicated local path. 
 
