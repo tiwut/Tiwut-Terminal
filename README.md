@@ -5,6 +5,7 @@
 brew tap Nexus-Titan/tab https://github.com/Nexus-Titan/homebrew-tap.git
 brew update
 brew install nexus-titan/tab/tiwut-terminal
+Tiwut-Terminal
 ```
 
 ## 1. OVERVIEW
