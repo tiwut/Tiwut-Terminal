@@ -58,4 +58,4 @@ You can compile this code flawlessly on any OS (Windows, macOS, Linux).
    ```bash
    mkdir build && cd build
    cmake ..
-   cmake --build .
+   make
